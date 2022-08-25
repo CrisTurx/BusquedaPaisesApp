@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+.small-flag{
+    width:50px;
+}
+
+.mr-1{
+    margin-top: 12px;
+    
+}
+body{
+    font-family: 'Playfair Display', serif;
+    color:#588157;
+    background-color: #edede9;
+    
+
+}
+ 
+#titulo1, #titulo2 ,#titulo3{
+    margin: auto;
+    text-align: center;
+}
+#subtitulo {
+    margin: auto;
+    text-align: center;
+}
