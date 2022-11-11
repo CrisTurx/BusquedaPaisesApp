@@ -9,7 +9,7 @@ import { Country } from '../../interfaces/pais.interface';
   styles:[
     `
     li {
-      crusor: pointer;
+      cursor: pointer;
     }
     `
   ]
